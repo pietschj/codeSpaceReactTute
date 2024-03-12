@@ -17,8 +17,13 @@
       "description": "Great job at updating the words on your web app. Now let's update the background colors for this app. On line 11, the background color is currently `#282c34`, which is the color code for dark grey. Let's update it to `purple`.\n\nDon't forget to press save and check your updated changes in the browser! 💜"
     },
     {
-      "title": "Completed",
+      "file": "src/App.css",
+      "line": 11,
       "description": "Mission complete! You added code to you first GitHub Codespace. Feel free to continue experimenting.\n\nBonus tip: If you click the three-dot menu associated with your current Codespace, you will see the option to 'Publish Codespace'. Once you publish your current codespace, you can share it with friends to show off your awesome creation!"
+    },
+    {
+      "title": "XZY",
+      "description": "Coola Boola\n\nBla bla"
     }
   ],
   "isPrimary": true
